@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on my [website](https://danielsblog.neocities.org/)
-- 🌱 I’m currently learning DevOps[Docker]
+- 🌱 I’m currently learning CI/CD
 - 👯 I’m looking to collaborate on *anything*!
 - 🤔 I’m looking for help with *finding my future job*
 - 💬 Ask me about *anything*
